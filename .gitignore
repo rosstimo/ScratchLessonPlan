@@ -1,6 +1,6 @@
 # ignore backup files
 *~
-inore
+ignore/*
 # ignore LaTeX output files
 *.aux
 *.log
@@ -16,8 +16,9 @@ inore
 *.xml
 *.gz
 *.fdb*
+*.pdf
 # ignore template files
-.template
+.template/*
 common
 useTemplate.sh
 texCompile.sh
