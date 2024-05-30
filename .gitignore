@@ -1,5 +1,6 @@
 # ignore backup files
 *~
+inore
 # ignore LaTeX output files
 *.aux
 *.log
