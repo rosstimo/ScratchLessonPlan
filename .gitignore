@@ -1,6 +1,6 @@
 # ignore backup files
 *~
-ignore/*
+ignore/
 # ignore LaTeX output files
 *.aux
 *.log
@@ -18,8 +18,11 @@ ignore/*
 *.fdb*
 *.pdf
 # ignore template files
-.template/*
+.template/
 common
 useTemplate.sh
 texCompile.sh
+
+# ignore all changes to the directory .template/
+
 
