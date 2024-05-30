@@ -1,5 +1,23 @@
+# ignore backup files
 *~
+# ignore LaTeX output files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.bbl
+*.bcf
+*.blg
+*.xml
+*.gz
+*.fdb*
+# ignore template files
 .template
 common
 useTemplate.sh
 texCompile.sh
+
