@@ -1,0 +1,106 @@
+### Schedule
+- [ ] Monday
+    - [ ] hour 1: 8:00 - 9:00
+        - [ ] Orientation, RFC, 30 min
+        - [ ] T&T Computer Lab, Introductions, Log in to Scratch, 30 min
+    - [ ] hour 2: 9:00 - 10:00
+        - [ ] Scratch Layout, 10 min
+        - [ ] Scratch Blocks, 10 min
+        - [ ] Hello, Scratch! project, 10 min
+        - [ ] Break, 20 min
+    - [ ] hour 3: 10:00 - 11:00
+        - [ ] Moving Player Character, 10 min
+        - [ ] (x,y) Coordinates, 10 min
+        - [ ] Looping code, 10 min
+        - [ ] Activity: Move A Sprite Around continuously, 15 min
+        - [ ] Questions, 15 min
+    - [ ] hour 4: 11:00 - 12:00
+        - [ ] Sprites, Code, Costumes, and Sounds, 10 min
+        - [ ] Animating Player Character, 10 min
+        - [ ] Activity: Animate A sprite, 10 min
+        - [ ] Events, 10 min
+        - [ ] Move Player Character with Key Press, 10 min
+    - [ ] Break for Lunch
+- [ ] Tuesday
+    - [ ] hour 1: 8:00 - 9:00
+        - [ ] RFC, 15 min
+        - [ ] T&T Computer Lab, log in 10 min
+        - [ ] Video Game Structure, Discussion, 10 min
+             - New Game, Non-Player Characters, Power-ups, Level Design, Scoring, Sound Effects, Background Music, Game Over, etc.
+        - [ ] Stage, Backdrop, Sounds, 10 min
+        - [ ] Animating Background, 10 min
+        - [ ] Activity: Create an Animated Background, 15 min
+    - [ ] hour 2: 9:00 - 10:00
+        - [ ] Sensing, 15 min
+        - [ ] interacting with other Characters/Objects, 10 min
+        - [ ] Collision Detection, 10 min
+        - [ ] Animating Non-Player Character/Objects, 10 min
+        - [ ] Activity: Create a Non-Player Character That Chases Character, 15 min
+        - [ ] Break, 20 min
+    - [ ] hour 3: 10:00 - 11:00
+        - [ ] Scoring, 10 min
+        - [ ] Variables, 10 min
+        - [ ] Power-ups, Projectiles, and Enemies, 10 min
+        - [ ] Activity: Create a Collision Counter/Score, 15 min
+        - [ ] Activity: Create a Extra Life Counter. Power Up +1, Hit By Enemy -1, 15 min
+    - [ ] hour 4: 11:00 - 12:00
+        - [ ] Custom Costumes, 10 min
+        - [ ] Custom Backgrounds, 10 min
+        - [ ] Custom Sounds, 10 Min
+- [ ] Wednesday
+    - [ ] hour 1: 8:00 - 9:00
+        - [ ] RFC, 15 min
+        - [ ] T&T Computer Lab, log in 10 min
+        - [ ] Level Design, 10 min
+        - [ ] Sequence of events, 10 min
+        - [ ] Review Event/Sense/Control/Operators, 10 min 
+        - [ ] Questions, 15 min
+    - [ ] hour 2: 9:00 - 10:00
+        - [ ] animations, sounds, music, 10 min
+        - [ ] when and where do objects appear/disappear, 10 min
+        - [ ] Life counter = 0, Game Over, 10 min
+        - [ ] Activity: Create a Level and Test It, 15 min
+        - [ ] Break, 20 min
+    - [ ] hour 3: 10:00 - 11:00
+        - [ ] Sound Effects, 10 min
+        - [ ] Background Music, 10 min
+        - [ ] Activity: Add Sound Effects and Background Music, 15 min
+    - [ ] hour 4: 11:00 - 12:00
+        - [ ]
+    - [ ] Break for Lunch
+- [ ] Thursday
+    - [ ] hour 1: 8:00 - 9:00
+        - [ ] RFC, 15 min
+        - [ ] T&T Computer Lab, log in 10 min
+        - [ ] putting it all together, 10 min
+    - [ ] hour 2: 9:00 - 10:00
+        - [ ] Title Animation/New Game, 10 min
+        - [ ] Activity: Create a Title Animation, 15 min
+        - [ ] Break, 20 min
+    - [ ] hour 3: 10:00 - 11:00
+        - [ ] Game Over Animation, 10 min
+        - [ ] Activity: Create a Game Over Animation, 15 min
+    - [ ] hour 4: 11:00 - 12:00
+        - [ ] Activity: Combine New Game Title Animation, Game Play, Game Over Animation, 30 min
+    - [ ] Break for Lunch
+- [ ] Friday
+    - [ ] hour 1: 8:00 - 9:00
+        - [ ] RFC, 15 min
+        - [ ] T&T Computer Lab, log in 10 min
+        - [ ] Debugging and Testing, 10 min
+    - [ ] hour 2: 9:00 - 10:00
+        - [ ] Sharing Projects, 10 min
+        - [ ] Activity: Share Projects, 30 min
+        - [ ] Break, 20 min
+    - [ ] hour 3: 10:00 - 11:00
+        - [ ] Reflection, 10 min
+        - [ ] Activity: Reflect on the Week, 15 min
+    - [ ] hour 4: 11:00 - 12:00
+        - [ ] Activity:
+    - [ ] Break for Lunch
+
+
+
+### Parking lot
+
+        
